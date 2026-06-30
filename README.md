@@ -6,8 +6,8 @@
 # Spectra
 Cloud gaming service based on multiple combined services.
 
-- *https://spectra.my-board.org (V1)*
-- *https://l0tzie-bug.github.io/Spectra (V2 Unfinished)*
+- *https://spectra.my-board.org (V1, Old)*
+
 
 ## Services in Use
 - CloudMoon
