@@ -20,10 +20,9 @@ Cloud gaming service based on multiple combined services.
 
 ## Project Status
 
-<input type="checkbox" checked disabled>CloudMoonAPI</input>
-<input type="checkbox" disabled>Account System (All-in-one)</input>
-<input type="checkbox" disabled> Multi-Support for each API
-<input type="checkbox" checked disabled> Interpret all APIs
+- API Urls [-]
+- Design [x]
+
 
 ## Why?
 - It helps to consolidate these services and reduce the search for such highly accessible cloud services.
