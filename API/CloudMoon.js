@@ -9,6 +9,5 @@ async function getCloudMoonUrls() {
   }
 }
 (async () => {
-  const activeUrls = await getCloudMoonUrls();
-  window.cloudMoonUrls = activeUrls;
+  window.cloudMoonUrls = await getCloudMoonUrls();
 })();
