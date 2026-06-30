@@ -20,9 +20,12 @@ Cloud gaming service based on multiple combined services.
 
 ## Project Status
 
-- API Urls [-]
-- Design [x]
-
+- [ ] API URLs
+- [x] Design 
+- [x] Input
+- [x] Game Display
+- [x] Game Lists
+- [x] Account System
 
 ## Why?
 - It helps to consolidate these services and reduce the search for such highly accessible cloud services.
